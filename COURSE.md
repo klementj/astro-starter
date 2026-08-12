@@ -43,7 +43,7 @@ Open a terminal inside the project folder.
 Run:
 
 ```bash
-npm install
+pnpm install
 ```
 
 This installs the packages the project needs.
@@ -51,7 +51,7 @@ This installs the packages the project needs.
 Then run:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 Astro should show you a local address similar to:
