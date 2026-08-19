@@ -73,16 +73,17 @@ normally represents the default page for that location.
 Complete these sentences:
 
 ```text
-My homepage file is:
+My homepage file is: Index.Astro
 
-The pages folder is:
+The pages folder is: Pages?
 
-An .astro file is:
+An .astro file is: a framework to build web pages
 ```
 
 Your answers do not need to be perfect.
 
 Write what you currently understand.
+Hjemmesiden er bygget op af Astro som er framework, en guide nærmest til at køre webpages på egen PC
 
 ---
 

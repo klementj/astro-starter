@@ -76,10 +76,13 @@ Answer:
 
 ```text
 Which file did you edit?
+I edit the Welcome.Atro file
 
 What happened when you saved it?
+It changed the H2 to the new edit
 
 Did you need to restart Astro?
+nope
 ```
 
 ---

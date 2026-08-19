@@ -73,11 +73,11 @@ It lets you see the website on your own computer while you work on it.
 Answer in your own words:
 
 ```text
-Which command starts the website?
+Which command starts the website? pnpm dev
 
-What address did Astro give you?
+What address did Astro give you? http://localhost:4321/
 
-Can you see the website in your browser?
+Can you see the website in your browser? Ye
 ```
 
 ---
