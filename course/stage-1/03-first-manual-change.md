@@ -82,7 +82,7 @@ What happened when you saved it?
 It changed the H2 to the new edit
 
 Did you need to restart Astro?
-nope
+nope 1
 ```
 
 ---
