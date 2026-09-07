@@ -103,6 +103,7 @@ Explain in your own words:
 
 ```text
 A Git commit is:
+a save point where you put in what you changed so you can go back and see what has been change at the given moment
 ```
 
 ---

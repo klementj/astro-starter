@@ -75,10 +75,12 @@ Complete:
 
 ```text
 A diff is:
+The diff shows the before and after, to show what has been changed
 
 The file I changed is:
-
+Welcome.astro
 The diff shows:
+- +
 ```
 
 ---
