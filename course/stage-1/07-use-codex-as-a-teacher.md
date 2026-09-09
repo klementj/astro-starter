@@ -89,9 +89,10 @@ Find one thing in the `.astro` file that makes more sense to you now.
 Write:
 
 ```text
-Before, I did not understand:
+Before, I did not understand: components
 
 Now I think it means:
+base components that can be reused? 
 ```
 
 ---
