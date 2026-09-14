@@ -32,22 +32,27 @@ Look for things such as:
 
 ```css
 font-size
+Line 74
 ```
 
 ```css
 color
+line 94
 ```
 
 ```css
 background
+line 45
 ```
 
 ```css
 padding
+line 87
 ```
 
 ```css
 margin
+76
 ```
 
 These control different parts of the appearance.
@@ -107,11 +112,11 @@ Adjust homepage heading size
 Complete:
 
 ```text
-CSS controls:
+CSS controls: Controls the layout on multiple pages
 
-The property Codex changed was:
+The property Codex changed was: It changed the font size
 
-That property does:
+That property does: A propety is the main part, like 'font-size' and '26' is its value
 ```
 
 ---
