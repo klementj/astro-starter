@@ -140,7 +140,7 @@ Only change the files required for the footer.
 ```
 
 Explain why in your own words.
-
+The second options is the best because vague tasks makes it so that ist hard for codex to explain why it did something and what it changed. It could also end up changing something that it wasnt supposed to change.
 ---
 
 ## Next exercise
