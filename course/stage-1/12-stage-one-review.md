@@ -20,6 +20,7 @@ It is fine if the explanation is simple.
 
 ```text
 Astro is:
+Astro is a website framework?
 ```
 
 ---
@@ -28,6 +29,7 @@ Astro is:
 
 ```text
 An .astro file is:
+a component
 ```
 
 ---
@@ -36,6 +38,7 @@ An .astro file is:
 
 ```text
 CSS is:
+Css what changes the visual stuff of the website
 ```
 
 ---
@@ -44,6 +47,7 @@ CSS is:
 
 ```text
 Markdown is:
+is a file that you can put in different places?
 ```
 
 ---
@@ -52,6 +56,7 @@ Markdown is:
 
 ```text
 A repository is:
+Where everything is stored
 ```
 
 ---
@@ -60,6 +65,7 @@ A repository is:
 
 ```text
 Git is:
+a platform to share code, lide a cloud storage place
 ```
 
 ---
@@ -68,6 +74,7 @@ Git is:
 
 ```text
 A commit is:
+is saving the things you have changed, and commiting to them
 ```
 
 ---
@@ -76,6 +83,7 @@ A commit is:
 
 ```text
 A diff is:
+showing what you have changed
 ```
 
 ---
@@ -84,6 +92,7 @@ A diff is:
 
 ```text
 Codex is:
+AI code helper
 ```
 
 ---
