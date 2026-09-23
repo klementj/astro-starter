@@ -125,9 +125,11 @@ Complete:
 ```text
 The starter content was mainly controlled by:
 
-Files removed or changed:
+Files removed or changed: Astro.svg, background avg, Welcome.Astro was removed.
+Index.Astro was changed
 
 The project still builds: yes / no
+yes
 ```
 
 ---
