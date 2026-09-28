@@ -114,11 +114,11 @@ to understand.
 Answer:
 
 ```text
-<header> is used for:
+<header> is used for: To make a header, text made to catch peoples attention
 
-<main> is used for:
+<main> is used for: it contains primary content
 
-<footer> is used for:
+<footer> is used for: making closing statemnts
 ```
 
 ---
