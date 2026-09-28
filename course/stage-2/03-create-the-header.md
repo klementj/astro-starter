@@ -130,11 +130,11 @@ The Header code does not need to be copied into every page later.
 Complete:
 
 ```text
-A component is:
+A component is: Is a reuseable buiding block
 
-My Header component is stored in:
+My Header component is stored in: under src/components/Header.astro
 
-The homepage uses the component by:
+The homepage uses the component by: By telling in Index.astro that the components excists and that when i put in <header> that it uses what is in the component
 ```
 
 ---
