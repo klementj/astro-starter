@@ -102,9 +102,9 @@ Open `index.astro`.
 Can you identify where these are used?
 
 ```text
-Header
-Hero
-Footer
+Header: Line 8
+Hero: line 
+Footer: Line 15
 ```
 
 You do not need to explain every line.
