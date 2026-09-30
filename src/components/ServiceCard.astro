@@ -1,5 +1,9 @@
+---
+const { title, description, href } = Astro.props;
+---
+
 <article>
-	<h2>Fleksjob</h2>
-	<p>Kort introduktion til rådgivning om fleksjob.</p>
-	<a href="/ydelser">Læs mere</a>
+	<h2>{title}</h2>
+	<p>{description}</p>
+	<a href={href}>Læs mere</a>
 </article>

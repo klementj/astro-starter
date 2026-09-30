@@ -140,9 +140,9 @@ index.astro
 Complete:
 
 ```text
-A prop is:
+A prop is: a baseline, we tell that we want a 'title:' in the component, and when put into the main code we put in what info we need.
 
-We use props because:
+We use props because: we need to make multiple things with the same layout
 
 One prop used by ServiceCard is:
 ```
