@@ -91,11 +91,11 @@ We will solve this in the next exercise.
 Answer:
 
 ```text
-The ServiceCard component is stored in:
+The ServiceCard component is stored in: Components?
 
-Right now its content is:
+Right now its content is: in serviceCard.astro
 
-A problem with hard-coded card content is:
+A problem with hard-coded card content is: they would all be same if we want more service cards
 ```
 
 ---

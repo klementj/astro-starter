@@ -103,7 +103,7 @@ Can you identify where these are used?
 
 ```text
 Header: Line 8
-Hero: line 
+Hero: there isnt a Hero section yet
 Footer: Line 15
 ```
 
