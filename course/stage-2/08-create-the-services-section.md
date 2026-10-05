@@ -98,9 +98,9 @@ This lets us build the website in layers.
 Answer:
 
 ```text
-ServicesSection contains:
+ServicesSection contains: It contains all the info for one of the service cards. et defines what theres suppossed to be written.
 
-ServiceCard contains:
+ServiceCard contains: A baseline code, like Title, Descriptin and href. and it gets definded in the service section what to be written in the sections
 
 The homepage contains:
 ```
