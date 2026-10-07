@@ -103,12 +103,12 @@ You should be able to look at the component names and understand the homepage st
 Write the homepage structure in order:
 
 ```text
-1.
-2.
-3.
-4.
-5.
-6.
+1.Layout
+2.Header
+3.Hero
+4.Services section
+5.About section
+6.Contactsection
 ```
 
 ---
