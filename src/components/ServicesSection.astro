@@ -22,3 +22,16 @@ import ServiceCard from './ServiceCard.astro';
 		href="/ydelser/foertidspension"
 	/>
 </section>
+
+<style>
+	section {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+		gap: 1rem;
+	}
+
+	h2,
+	section > p {
+		grid-column: 1 / -1;
+	}
+</style>
