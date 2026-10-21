@@ -30,6 +30,13 @@ import ServiceCard from './ServiceCard.astro';
 		gap: 1rem;
 	}
 
+	@media (max-width: 40rem) {
+		section {
+			padding-inline: 1rem;
+			grid-template-columns: minmax(0, 1fr);
+		}
+	}
+
 	h2,
 	section > p {
 		grid-column: 1 / -1;
