@@ -63,22 +63,22 @@ Use your existing `notes.md`, or create one if needed:
 ```md
 ## Stage 3 starting point
 
-- My homepage file is:
-- My service card component is:
-- Its props are:
-- My shared layout is:
-- The header and footer are rendered in:
-- The main element is rendered in:
-- My installed Astro version is:
-- My site base path is:
-- Service text currently lives in:
+- My homepage file is: index.astro
+- My service card component is: serviceCard.astro
+- Its props are: servicesSection.astro
+- My shared layout is: Layout.astro
+- The header and footer are rendered in: Index.astro
+- The main element is rendered in: Index.astro
+- My installed Astro version is: 7.3.1
+- My site base path is:doesnt have a path, so it uses the default path
+- Service text currently lives in: ServiceSection.astro
 ```
 
 Do not paste an entire Codex answer. Write what you understand.
 
 ## Checkpoint
 
-Explain the difference between changing a service's wording and changing every service card's appearance.
+Explain the difference between changing a service's wording and changing every service card's appearance. changin the wording only changes what it says on the website, changing the appearance is changing how it looks on the website
 
 Only learning notes should have changed in this exercise. Inspect their diff and commit them if you want to keep them.
 
