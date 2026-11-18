@@ -1,8 +1,8 @@
 ---
-Title: " fleksjob"
+title: "fleksjob"
 description: "få hjælp til at skabe overblik over din sag om fleksjob."
 order: 1
-Draft: false
+draft: false
 ---
 
 Jeg hjælper dig med at samle spørgsmål og skabe overblik over din sag.
